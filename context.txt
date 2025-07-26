@@ -1,0 +1,269 @@
+Aquí tienes un ejemplo de guion de conversación para un chatbot de una empresa de ingeniería (INGE LEAN S.A.S.) que responde preguntas frecuentes con información clara y detallada:
+
+# 🏭 Chatbot INGE LEAN S.A.S. – Guion de Respuestas Frecuentes
+👉 *Escenario*: Usuario interactúa con el sistema de INGE LEAN S.A.S. para consultas sobre servicios de ingeniería, automatización e IA
+
+## 📋 INFORMACIÓN CORPORATIVA
+
+💬 *Usuario*: ¿Qué servicios ofrece INGE LEAN S.A.S.?
+🤖 *Chatbot*: INGE LEAN S.A.S. es una empresa de ingeniería con sede en Pereira (Risaralda), fundada en 2013, que brinda soluciones a medida en software, hardware, automatización industrial, inteligencia artificial y mantenimiento. Nos especializamos en impulsar la eficiencia y competitividad de procesos industriales y comerciales en el Eje Cafetero.
+
+💬 *Usuario*: ¿Dónde están ubicados y desde cuándo operan?
+🤖 *Chatbot*: Estamos ubicados en Pereira, Risaralda, y hemos estado operando desde el año 2013, acumulando más de 10 años de experiencia en el sector tecnológico e industrial.
+
+💬 *Usuario*: ¿Cuál es la misión de INGE LEAN S.A.S.?
+🤖 *Chatbot*: Nuestra misión es impulsar la eficiencia y competitividad de procesos industriales y comerciales mediante soluciones tecnológicas innovadoras, automatización inteligente y servicios de ingeniería de alta calidad.
+
+💬 *Usuario*: ¿Cuál es la visión de la empresa?
+🤖 *Chatbot*: Convertirnos en la empresa líder del Eje Cafetero en soluciones de automatización industrial e inteligencia artificial, reconocidos por nuestra innovación y excelencia técnica.
+
+💬 *Usuario*: ¿Qué valores corporativos manejan?
+🤖 *Chatbot*: Nuestros valores incluyen: innovación tecnológica, excelencia en el servicio, compromiso con la calidad, responsabilidad ambiental, trabajo en equipo y desarrollo continuo.
+
+💬 *Usuario*: ¿Cuántos empleados tiene la empresa?
+🤖 *Chatbot*: Contamos con un equipo multidisciplinario de 25 profesionales especializados en ingeniería, desarrollo de software, automatización e inteligencia artificial.
+
+💬 *Usuario*: ¿Tienen certificaciones de calidad?
+🤖 *Chatbot*: Sí, contamos con certificación ISO 9001:2015 en sistemas de gestión de calidad y estamos en proceso de obtener la certificación ISO 27001 para seguridad de la información.
+
+💬 *Usuario*: ¿Cuál es el horario de atención al cliente?
+🤖 *Chatbot*: Nuestro horario de atención es de lunes a viernes de 8:00 AM a 6:00 PM. Para emergencias técnicas, contamos con soporte 24/7 para clientes con contratos de mantenimiento premium.
+
+## 🔧 AUTOMATIZACIÓN INDUSTRIAL
+
+💬 *Usuario*: ¿Qué tipo de automatización industrial ofrecen?
+🤖 *Chatbot*: Ofrecemos soluciones integrales de automatización industrial que incluyen diseño e implementación de sistemas de control, programación de PLCs, sistemas SCADA, integración de sensores y actuadores, y optimización de procesos productivos para mejorar la eficiencia operacional.
+
+💬 *Usuario*: ¿Trabajan con sistemas PLC de diferentes marcas?
+🤖 *Chatbot*: Sí, trabajamos con PLCs de las principales marcas: Siemens, Allen Bradley, Schneider Electric, Mitsubishi, Omron y Delta, adaptándonos a la infraestructura existente del cliente.
+
+💬 *Usuario*: ¿Qué son los sistemas SCADA que implementan?
+🤖 *Chatbot*: Los sistemas SCADA (Supervisory Control and Data Acquisition) son interfaces gráficas que permiten monitorear y controlar procesos industriales en tiempo real, facilitando la toma de decisiones operativas.
+
+💬 *Usuario*: ¿Realizan integración de sensores industriales?
+🤖 *Chatbot*: Sí, integramos sensores de temperatura, presión, nivel, flujo, proximidad, vibración y otros, según las necesidades específicas del proceso industrial del cliente.
+
+💬 *Usuario*: ¿Ofrecen servicios de calibración de equipos?
+🤖 *Chatbot*: Proporcionamos servicios de calibración para instrumentos de medición industrial, asegurando la precisión y confiabilidad de los datos del proceso.
+
+💬 *Usuario*: ¿Implementan sistemas de control de calidad automatizados?
+🤖 *Chatbot*: Sí, desarrollamos sistemas automatizados de control de calidad con visión artificial, sensores especializados y algoritmos de detección de defectos.
+
+💬 *Usuario*: ¿Qué es la Industria 4.0 y cómo la implementan?
+🤖 *Chatbot*: La Industria 4.0 integra IoT, Big Data, IA y automatización. Implementamos soluciones que conectan máquinas, recopilan datos en tiempo real y optimizan procesos mediante análisis inteligente.
+
+💬 *Usuario*: ¿Trabajan con robótica industrial?
+🤖 *Chatbot*: Sí, integramos brazos robóticos, sistemas de pick and place, robots colaborativos (cobots) y soluciones de robótica móvil para automatización de procesos.
+
+## 💻 DESARROLLO DE SOFTWARE
+
+💬 *Usuario*: ¿Desarrollan software personalizado para empresas?
+🤖 *Chatbot*: Sí, desarrollamos software a medida según las necesidades específicas de cada cliente. Nuestras soluciones incluyen sistemas de gestión empresarial, aplicaciones web y móviles, bases de datos personalizadas y sistemas de análisis de datos.
+
+💬 *Usuario*: ¿Qué lenguajes de programación utilizan?
+🤖 *Chatbot*: Trabajamos con Python, Java, C#, JavaScript, PHP, C++, Node.js, React, Angular y otros lenguajes según los requerimientos específicos del proyecto.
+
+💬 *Usuario*: ¿Desarrollan aplicaciones móviles?
+🤖 *Chatbot*: Sí, creamos aplicaciones nativas para Android e iOS, así como aplicaciones híbridas usando frameworks como React Native y Flutter.
+
+💬 *Usuario*: ¿Ofrecen desarrollo de aplicaciones web?
+🤖 *Chatbot*: Desarrollamos aplicaciones web responsivas, progressive web apps (PWA), sistemas de gestión empresarial y plataformas de comercio electrónico.
+
+💬 *Usuario*: ¿Implementan bases de datos empresariales?
+🤖 *Chatbot*: Sí, diseñamos e implementamos bases de datos relacionales y no relacionales usando MySQL, PostgreSQL, MongoDB, SQL Server y Oracle.
+
+💬 *Usuario*: ¿Realizan migración de sistemas legacy?
+🤖 *Chatbot*: Proporcionamos servicios de migración y modernización de sistemas antiguos hacia tecnologías actuales, asegurando la continuidad del negocio.
+
+💬 *Usuario*: ¿Ofrecen integración con APIs externas?
+🤖 *Chatbot*: Sí, integramos sistemas con APIs de terceros, servicios web, sistemas de pago, CRMs, ERPs y otras plataformas empresariales.
+
+💬 *Usuario*: ¿Desarrollan sistemas de gestión documental?
+🤖 *Chatbot*: Creamos sistemas para digitalización, almacenamiento, indexación y gestión de documentos empresariales con funciones de búsqueda avanzada.
+
+## 🤖 INTELIGENCIA ARTIFICIAL
+
+💬 *Usuario*: ¿Qué servicios de inteligencia artificial proporcionan?
+🤖 *Chatbot*: Implementamos soluciones de IA que incluyen chatbots inteligentes, análisis predictivo, procesamiento de lenguaje natural, sistemas de recomendación, automatización de procesos mediante machine learning y análisis de grandes volúmenes de datos para la toma de decisiones empresariales.
+
+💬 *Usuario*: ¿Qué es el machine learning y cómo lo aplican?
+🤖 *Chatbot*: El machine learning permite a las máquinas aprender de datos sin programación explícita. Lo aplicamos en predicción de demanda, detección de anomalías, optimización de procesos y análisis de patrones.
+
+💬 *Usuario*: ¿Implementan sistemas de visión artificial?
+🤖 *Chatbot*: Sí, desarrollamos soluciones de visión artificial para control de calidad, reconocimiento de objetos, lectura de códigos, inspección automatizada y seguridad industrial.
+
+💬 *Usuario*: ¿Qué es el procesamiento de lenguaje natural (NLP)?
+🤖 *Chatbot*: El NLP permite a las máquinas entender y procesar el lenguaje humano. Lo usamos en chatbots, análisis de sentimientos, traducción automática y extracción de información.
+
+💬 *Usuario*: ¿Desarrollan sistemas de análisis predictivo?
+🤖 *Chatbot*: Creamos modelos predictivos para pronóstico de ventas, mantenimiento predictivo, análisis de riesgos y optimización de inventarios usando algoritmos de IA.
+
+💬 *Usuario*: ¿Implementan chatbots para servicio al cliente?
+🤖 *Chatbot*: Sí, desarrollamos chatbots inteligentes con NLP que pueden manejar consultas complejas, integrarse con sistemas empresariales y proporcionar atención 24/7.
+
+💬 *Usuario*: ¿Qué es el deep learning y cuándo lo usan?
+🤖 *Chatbot*: El deep learning usa redes neuronales profundas para tareas complejas como reconocimiento de imágenes, procesamiento de voz y análisis de datos no estructurados.
+
+💬 *Usuario*: ¿Ofrecen análisis de big data?
+🤖 *Chatbot*: Procesamos y analizamos grandes volúmenes de datos usando herramientas como Apache Spark, Hadoop y plataformas cloud para extraer insights valiosos.
+
+## 🔧 MANTENIMIENTO Y SOPORTE
+
+💬 *Usuario*: ¿Ofrecen servicios de mantenimiento para los sistemas implementados?
+🤖 *Chatbot*: Sí, brindamos servicios de mantenimiento preventivo y correctivo para todos nuestros sistemas implementados. Esto incluye actualizaciones de software, calibración de equipos, soporte técnico continuo y monitoreo remoto de sistemas.
+
+💬 *Usuario*: ¿Qué incluye el mantenimiento preventivo?
+🤖 *Chatbot*: Incluye inspecciones programadas, limpieza de equipos, actualización de software, verificación de calibraciones, respaldo de datos y reemplazo de componentes según cronograma.
+
+💬 *Usuario*: ¿Cómo funciona el mantenimiento correctivo?
+🤖 *Chatbot*: Proporcionamos diagnóstico y reparación de fallas, reemplazo de componentes dañados, restauración de servicios y análisis de causas raíz para prevenir recurrencias.
+
+💬 *Usuario*: ¿Ofrecen monitoreo remoto de sistemas?
+🤖 *Chatbot*: Sí, implementamos sistemas de monitoreo 24/7 que nos permiten supervisar el rendimiento, detectar anomalías y realizar intervenciones proactivas.
+
+💬 *Usuario*: ¿Qué planes de soporte técnico manejan?
+🤖 *Chatbot*: Ofrecemos soporte básico (8x5), soporte premium (12x6 con respuesta en 4 horas) y soporte empresarial (24x7 con técnico dedicado).
+
+💬 *Usuario*: ¿Realizan actualizaciones de software?
+🤖 *Chatbot*: Sí, proporcionamos actualizaciones regulares de software, parches de seguridad, nuevas funcionalidades y mejoras de rendimiento.
+
+💬 *Usuario*: ¿Cómo manejan las emergencias técnicas?
+🤖 *Chatbot*: Contamos con un equipo de respuesta rápida disponible 24/7 para emergencias, con tiempo de respuesta garantizado según el plan de soporte contratado.
+
+💬 *Usuario*: ¿Ofrecen contratos de mantenimiento a largo plazo?
+🤖 *Chatbot*: Sí, ofrecemos contratos anuales y plurianuales con descuentos preferenciales y servicios adicionales incluidos.
+
+## 💰 ASPECTOS COMERCIALES
+
+💬 *Usuario*: ¿Cómo puedo solicitar una cotización para un proyecto?
+🤖 *Chatbot*: Puede solicitar una cotización a través de nuestro sitio web, llamando a nuestras líneas telefónicas, enviando un correo electrónico detallando sus requerimientos, o visitando nuestras oficinas en Pereira. Nuestro equipo técnico evaluará sus necesidades y le proporcionará una propuesta personalizada.
+
+💬 *Usuario*: ¿Cuánto tiempo toma recibir una cotización?
+🤖 *Chatbot*: Proporcionamos cotizaciones preliminares en 24-48 horas. Para proyectos complejos que requieren análisis detallado, el tiempo puede extenderse a 5-7 días hábiles.
+
+💬 *Usuario*: ¿Qué información necesitan para elaborar una cotización?
+🤖 *Chatbot*: Necesitamos: descripción detallada del proyecto, objetivos específicos, restricciones técnicas, cronograma deseado, presupuesto estimado e información sobre la infraestructura existente.
+
+💬 *Usuario*: ¿Manejan diferentes modalidades de pago?
+🤖 *Chatbot*: Sí, aceptamos pagos de contado con descuento, pagos fraccionados según hitos del proyecto, y financiamiento a plazos para proyectos de gran envergadura.
+
+💬 *Usuario*: ¿Ofrecen descuentos por volumen o proyectos múltiples?
+🤖 *Chatbot*: Sí, aplicamos descuentos progresivos para clientes corporativos, proyectos múltiples y contratos a largo plazo según el volumen de trabajo.
+
+💬 *Usuario*: ¿Qué garantías ofrecen en sus productos y servicios?
+🤖 *Chatbot*: Ofrecemos garantía de 12 meses en hardware implementado, 6 meses en desarrollos de software, y soporte técnico continuo durante el primer mes posterior a la implementación. Adicionalmente, brindamos capacitación al personal del cliente para el uso adecuado de los sistemas.
+
+💬 *Usuario*: ¿Realizan estudios de factibilidad técnica?
+🤖 *Chatbot*: Sí, ofrecemos estudios de factibilidad que incluyen análisis técnico, económico y de riesgos para evaluar la viabilidad de los proyectos propuestos.
+
+💬 *Usuario*: ¿Trabajan con presupuestos ajustados?
+🤖 *Chatbot*: Desarrollamos soluciones escalables que se adaptan a diferentes presupuestos, priorizando funcionalidades core y permitiendo expansiones futuras.
+
+## ⏱ CRONOGRAMAS Y PLAZOS
+
+💬 *Usuario*: ¿Cuánto tiempo toma típicamente implementar una solución?
+🤖 *Chatbot*: Los tiempos de implementación varían según la complejidad del proyecto: proyectos de software pueden tomar entre 4-12 semanas, sistemas de automatización entre 6-16 semanas, y soluciones de IA entre 8-20 semanas. Proporcionamos cronogramas detallados en cada propuesta.
+
+💬 *Usuario*: ¿Cómo manejan los cronogramas de proyecto?
+🤖 *Chatbot*: Utilizamos metodologías ágiles con entregas incrementales, revisiones semanales de progreso, hitos claramente definidos y comunicación constante con el cliente.
+
+💬 *Usuario*: ¿Qué pasa si hay retrasos en el proyecto?
+🤖 *Chatbot*: Comunicamos proactivamente cualquier riesgo de retraso, proponemos planes de contingencia y, si es necesario, ajustamos recursos para cumplir con fechas críticas.
+
+💬 *Usuario*: ¿Pueden acelerar la implementación si es urgente?
+🤖 *Chatbot*: Sí, ofrecemos modalidad "fast track" con recursos adicionales y trabajo en horarios extendidos, con un sobrecosto acordado previamente.
+
+💬 *Usuario*: ¿Realizan entregas parciales durante el desarrollo?
+🤖 *Chatbot*: Sí, implementamos entregas incrementales que permiten al cliente ver progreso, realizar pruebas tempranas y proporcionar retroalimentación continua.
+
+💬 *Usuario*: ¿Cómo reportan el avance del proyecto?
+🤖 *Chatbot*: Proporcionamos reportes semanales de progreso, dashboards en tiempo real, reuniones de seguimiento y acceso a herramientas de gestión de proyectos.
+
+## 🎓 CAPACITACIÓN Y ENTRENAMIENTO
+
+💬 *Usuario*: ¿Ofrecen capacitación para el uso de los sistemas implementados?
+🤖 *Chatbot*: Sí, incluimos capacitación completa para el personal del cliente como parte de nuestros servicios. La capacitación abarca el uso operativo del sistema, procedimientos de mantenimiento básico y resolución de problemas comunes.
+
+💬 *Usuario*: ¿Qué modalidades de capacitación ofrecen?
+🤖 *Chatbot*: Ofrecemos capacitación presencial en las instalaciones del cliente, capacitación virtual en vivo, e-learning con contenido interactivo y talleres prácticos especializados.
+
+💬 *Usuario*: ¿Proporcionan material de capacitación?
+🤖 *Chatbot*: Sí, entregamos manuales de usuario detallados, videos tutoriales, guías de referencia rápida y documentación técnica completa en español.
+
+💬 *Usuario*: ¿Capacitan a usuarios finales y administradores por separado?
+🤖 *Chatbot*: Sí, diseñamos programas de capacitación diferenciados según el rol: usuarios finales, administradores del sistema, personal técnico y supervisores.
+
+💬 *Usuario*: ¿Ofrecen recapacitación o capacitación adicional?
+🤖 *Chatbot*: Proporcionamos sesiones de recapacitación sin costo durante los primeros 3 meses, y capacitación adicional para nuevos empleados a tarifas preferenciales.
+
+💬 *Usuario*: ¿Tienen programas de certificación?
+🤖 *Chatbot*: Sí, ofrecemos certificaciones internas para operadores de nuestros sistemas, con evaluaciones teóricas y prácticas que validan competencias específicas.
+
+## 🏭 SECTORES INDUSTRIALES
+
+💬 *Usuario*: ¿Qué sectores industriales atienden principalmente?
+🤖 *Chatbot*: Atendemos diversos sectores incluyendo: industria alimentaria, manufactura, logística, sector cafetero, textil, farmacéutico, y empresas de servicios. Nuestra experiencia nos permite adaptar soluciones a las necesidades específicas de cada industria.
+
+💬 *Usuario*: ¿Tienen experiencia en el sector cafetero?
+🤖 *Chatbot*: Sí, como empresa del Eje Cafetero, tenemos amplia experiencia en automatización de procesos de beneficio, control de calidad, trazabilidad y sistemas de gestión para cooperativas y exportadores de café.
+
+💬 *Usuario*: ¿Trabajan con la industria alimentaria?
+🤖 *Chatbot*: Implementamos soluciones para control de procesos, trazabilidad alimentaria, sistemas HACCP, control de temperatura y humedad, y automatización de líneas de producción.
+
+💬 *Usuario*: ¿Atienden empresas del sector textil?
+🤖 *Chatbot*: Sí, desarrollamos sistemas de control de producción, gestión de inventarios, control de calidad automatizado y optimización de procesos textiles.
+
+💬 *Usuario*: ¿Tienen soluciones para el sector logístico?
+🤖 *Chatbot*: Ofrecemos sistemas WMS (Warehouse Management System), control de inventarios en tiempo real, optimización de rutas y automatización de almacenes.
+
+💬 *Usuario*: ¿Trabajan con empresas farmacéuticas?
+🤖 *Chatbot*: Implementamos sistemas que cumplen con normativas FDA y buenas prácticas de manufactura, incluyendo trazabilidad, control ambiental y validación de procesos.
+
+💬 *Usuario*: ¿Atienden el sector agroindustrial?
+🤖 *Chatbot*: Sí, desarrollamos soluciones para agricultura de precisión, sistemas de riego automatizado, monitoreo de cultivos y control de invernaderos.
+
+💬 *Usuario*: ¿Tienen experiencia en minería?
+🤖 *Chatbot*: Proporcionamos sistemas de monitoreo ambiental, control de procesos extractivos, seguridad industrial automatizada y gestión de equipos mineros.
+
+## 🔒 SEGURIDAD Y CALIDAD
+
+💬 *Usuario*: ¿Cómo manejan la seguridad de los datos en sus sistemas?
+🤖 *Chatbot*: Implementamos protocolos de seguridad robustos que incluyen encriptación de datos, autenticación multifactor, respaldos automáticos, acceso controlado por roles y cumplimiento con estándares internacionales de seguridad de la información.
+
+💬 *Usuario*: ¿Cumplen con normativas de ciberseguridad?
+🤖 *Chatbot*: Sí, seguimos estándares como ISO 27001, NIST Cybersecurity Framework y mejores prácticas de seguridad industrial IEC 62443 para sistemas OT.
+
+💬 *Usuario*: ¿Realizan respaldos automáticos de datos?
+🤖 *Chatbot*: Sí, implementamos sistemas de respaldo automático con múltiples copias, almacenamiento en la nube y procedimientos de recuperación ante desastres.
+
+💬 *Usuario*: ¿Qué medidas toman para proteger la propiedad intelectual?
+🤖 *Chatbot*: Firmamos acuerdos de confidencialidad estrictos, implementamos controles de acceso rigurosos y seguimos protocolos internos de protección de información sensible.
+
+💬 *Usuario*: ¿Realizan auditorías de seguridad?
+🤖 *Chatbot*: Sí, realizamos auditorías de seguridad regulares, pruebas de penetración y evaluaciones de vulnerabilidades para garantizar la integridad de los sistemas.
+
+💬 *Usuario*: ¿Cómo garantizan la calidad de sus desarrollos?
+🤖 *Chatbot*: Aplicamos metodologías de desarrollo seguro, pruebas automatizadas, revisiones de código, testing funcional y de performance, y controles de calidad en cada fase.
+
+## 🌐 COBERTURA GEOGRÁFICA Y ESCALABILIDAD
+
+💬 *Usuario*: ¿Trabajan con empresas de otros departamentos además de Risaralda?
+🤖 *Chatbot*: Sí, aunque nuestra sede principal está en Pereira, atendemos clientes en todo el Eje Cafetero y otras regiones de Colombia. Realizamos proyectos remotos y tenemos capacidad de desplazamiento para implementaciones en sitio.
+
+💬 *Usuario*: ¿Proporcionan soporte técnico post-implementación?
+🤖 *Chatbot*: Sí, ofrecemos diferentes niveles de soporte técnico: soporte básico por correo y teléfono, soporte premium con respuesta garantizada en 4 horas, y soporte empresarial con atención 24/7 y técnico dedicado para resolución inmediata de incidencias críticas.
+
+💬 *Usuario*: ¿Sus sistemas son escalables para empresas en crecimiento?
+🤖 *Chatbot*: Sí, diseñamos arquitecturas escalables que pueden crecer con su negocio, permitiendo agregar usuarios, funcionalidades y capacidad de procesamiento según sus necesidades futuras.
+
+💬 *Usuario*: ¿Pueden integrar sistemas existentes con sus nuevas soluciones?
+🤖 *Chatbot*: Sí, nos especializamos en integración de sistemas heterogéneos, conectando ERPs, CRMs, sistemas legacy y nuevas tecnologías mediante APIs y middleware especializado.
+
+💬 *Usuario*: ¿Ofrecen migración a la nube?
+🤖 *Chatbot*: Proporcionamos servicios completos de migración a cloud computing, incluyendo AWS, Google Cloud y Microsoft Azure, con estrategias híbridas según las necesidades del cliente.
+
+💬 *Usuario*: ¿Cómo se mantienen actualizados con las nuevas tecnologías?
+🤖 *Chatbot*: Nuestro equipo participa en capacitación continua, certificaciones internacionales, conferencias tecnológicas y mantenemos alianzas estratégicas con proveedores líderes para estar a la vanguardia de las innovaciones tecnológicas.
+
+---
+
